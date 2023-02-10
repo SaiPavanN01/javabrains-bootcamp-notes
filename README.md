@@ -1,1 +1,2 @@
-# javabrains-bootcamp-notes
+# javabrains-bootcamp-notes 
+session 2 notes
